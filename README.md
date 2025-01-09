@@ -1,2 +1,4 @@
 # TSASDA_Lab
-All the code for lab exp 
+This repo consists of all the lab programs for Time Series and Sequential Data Analysis
+
+
